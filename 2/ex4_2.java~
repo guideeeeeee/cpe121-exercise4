@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class ex4_2{
+    public static void main(String[] args){
+        Scanner sn = new Scanner(System.in);
+        areain a = new areain();
+        System.out.print("Enter s and n for calculate area :");
+        double s = sn.nextDouble();
+        int nn = sn.nextInt();
+        sn.close();
+        double area = a.area(s,nn);
+        
+    } 
+}

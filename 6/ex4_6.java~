@@ -1,0 +1,8 @@
+import java.util.Scanner;
+public class ex4_6{
+  public static void main(String[]args){
+    Scanner sn = new Scanner(System.in);
+    System.out.print("Enter distance x1 y1 x2 y2:");
+    
+  }
+}

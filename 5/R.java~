@@ -1,0 +1,9 @@
+class R{
+  public static int reverse(int number){
+    int i ;
+    do{
+      
+    }while();
+    return 
+  }
+}
